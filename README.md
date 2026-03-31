@@ -1,7 +1,7 @@
 # 🛍️ House of Hype — E-commerce Web Application
 
 A full-stack e-commerce platform built with React and Node.js, featuring product browsing, user authentication, shopping cart, checkout with Stripe, and an admin dashboard.
-
+This web app has been built as a team project.
 ---
 
 ## 🧰 Tech Stack
