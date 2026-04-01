@@ -146,3 +146,19 @@ Log in using your admin credentials set in the backend `.env` file (`ADMIN_EMAIL
 ## What I learned
 
 Through building the House of Hype e-commerce application as part of a team, I gained hands-on experience developing a full-stack web app from end to end. I learned how to design and connect a modern frontend using React with a backend powered by Node.js and Express, while managing data with MongoDB. I developed a deeper understanding of authentication using JWT, secure password handling with Bcrypt, and integrating third-party services like Stripe for payments, Cloudinary for image storage, and Nodemailer for email notifications. I also improved my skills in structuring scalable applications, handling API communication, and managing environment variables. Working collaboratively helped me strengthen my version control, communication, and problem-solving abilities, especially when debugging and integrating different parts of the system into a cohesive product.
+
+---
+##Images
+
+<img width="852" height="385" alt="image" src="https://github.com/user-attachments/assets/af7b8880-d0d8-414f-80d4-f97e7e872e24" />
+<img width="1018" height="462" alt="image" src="https://github.com/user-attachments/assets/b9da8e01-f7d3-4a69-ade7-bc1e09563889" />
+<img width="736" height="432" alt="image" src="https://github.com/user-attachments/assets/d6bc71b2-712a-4690-b44e-6f5f3060dc65" />
+<img width="948" height="464" alt="image" src="https://github.com/user-attachments/assets/fec47188-58cf-4e0f-90ca-fd5da23afc80" />
+<img width="1152" height="462" alt="image" src="https://github.com/user-attachments/assets/9cd1260e-0e66-4d14-b9c3-3d235276f584" />
+<img width="782" height="424" alt="image" src="https://github.com/user-attachments/assets/7870f70f-059e-48e0-bb86-7c794439ca91" />
+<img width="823" height="468" alt="image" src="https://github.com/user-attachments/assets/f5971f18-97d4-47fd-b427-7190a7ccf922" />
+<img width="1077" height="463" alt="image" src="https://github.com/user-attachments/assets/ffc3586d-cc32-4650-8657-a0b0a44b7aaa" />
+<img width="1126" height="253" alt="image" src="https://github.com/user-attachments/assets/85618964-91d5-4135-afc5-fd1973294922" />
+<img width="911" height="460" alt="image" src="https://github.com/user-attachments/assets/5ea4787e-0099-4903-8de9-7de7a1fb965f" />
+<img width="1235" height="466" alt="image" src="https://github.com/user-attachments/assets/f1308ed3-a582-494d-a7d1-943f3ea19d46" />
+
