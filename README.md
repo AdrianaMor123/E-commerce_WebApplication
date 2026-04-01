@@ -143,4 +143,5 @@ Log in using your admin credentials set in the backend `.env` file (`ADMIN_EMAIL
 | `VITE_BACKEND_URL` | frontend | Backend API URL |
 
 ---
-
+##What I learned
+Through building the House of Hype e-commerce application as part of a team, I gained hands-on experience developing a full-stack web app from end to end. I learned how to design and connect a modern frontend using React with a backend powered by Node.js and Express, while managing data with MongoDB. I developed a deeper understanding of authentication using JWT, secure password handling with Bcrypt, and integrating third-party services like Stripe for payments, Cloudinary for image storage, and Nodemailer for email notifications. I also improved my skills in structuring scalable applications, handling API communication, and managing environment variables. Working collaboratively helped me strengthen my version control, communication, and problem-solving abilities, especially when debugging and integrating different parts of the system into a cohesive product.
